@@ -1,1 +1,1 @@
-[View it on github.io](TheNeuralBit.github.io/tripmap)
+[View it on github.io](http://TheNeuralBit.github.io/tripmap)
