@@ -1,5 +1,6 @@
 body {
   background: white;
+  margin: 0px;
 }
 
 #map-canvas {
@@ -12,15 +13,13 @@ body {
 #map-wrapper {
   position: fixed;
   right: 0px;
-  top: 0px;
+  bottom: 0px;
 }
 
 #images {
-  width: 750px;
+  width: 100%;
 }
 
 #images img {
-  height: 500px;
-  border: 1px solid gray;
-  padding: 3px;
+  width:100%;
 }
